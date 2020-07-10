@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">QUIZ ON C PROGRAMMING</string>
+    <!-- Quiz questions and answer suggestions -->
+    <string name="questionOne">1. Is it possible to run program without main() function?</string>
+    <string name="questionOneA">True</string>
+    <string name="questionOneB">False</string>
+
+    <string name="questionTwo">2. How many main() function we can have in our project?</string>
+    <string name="questionTwoA">2</string>
+    <string name="questionTwoB">1</string>
+    <string name="questionTwoC">Depends on Compiler</string>
+
+    <string name="questionThree">3. What is sizeof() in C?</string>
+    <string name="questionThreeA">Operator</string>
+    <string name="questionThreeB">Function</string>
+    <string name="questionThreeC">Macro</string>
+
+    <string name="questionFour">4. Is it true that a function may have several declaration, but only one definition.</string>
+    <string name="questionFourA">True</string>
+    <string name="questionFourB">False</string>
+
+    <string name="questionFive">5. Which programming language is more faster among these?</string>
+    <string name="questionFiveA">Java</string>
+    <string name="questionFiveB">C</string>
+    <string name="questionFiveC">PHP</string>
+
+    <string name="questionSix">6. C Language was invented in which year ?</string>
+
+
+    <string name="questionSeven">7. The concept of two functions with same name is know as?</string>
+    <string name="questionSevenA">Operator Overloading</string>
+    <string name="questionSevenB">Function Overloading</string>
+    <string name="questionSevenC"> Function renaming</string>
+
+    <string name="questionEight">8. Library function pow() belongs to which header file?</string>
+    <string name="questionEightA">mathio.h</string>
+    <string name="questionEightB">square.h</string>
+    <string name="questionEightC">math.h</string>
+
+    <string name="questionNine">9. What is the following is invalid header file in C?</string>
+    <string name="questionNineA">math.h</string>
+    <string name="questionNineB">mathio.h</string>
+    <string name="questionNineC">ctype.h</string>
+
+    <string name="questionTen">10. Which of them is/are Loop?</string>
+    <string name="questionTenA">for</string>
+    <string name="questionTenB">switch case</string>
+    <string name="questionTenC">while</string>
+
+
+</resources>
